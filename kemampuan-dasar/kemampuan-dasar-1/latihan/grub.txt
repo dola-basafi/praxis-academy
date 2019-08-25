@@ -1,0 +1,11 @@
+ada 4 pilihan
+
+1. Ubuntu
+2. Advanced options for Ubuntu
+3. Memory test (memtest)
+4. Windows 7
+
+pilihan 1 : untuk masuk ke OS Ubuntu
+pilihan 2 : sangat berguna jika terjadi kesalah atau kerusakan kernel,  system ,dll. Misal jika kernel terbaru memiliki masalah pada mesin , maka dapat merubah / masuk dengan kernel versi sebelumnya.
+pilihan 3 : digunakan untuk mengetes memory(RAM) yang bertujuan untuk mencari error
+pilihan 4 : Untuk masuk ke OS Windows 7
