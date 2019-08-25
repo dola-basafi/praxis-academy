@@ -1,0 +1,2 @@
+file kernel ubuntu berada di : /usr/src
+di folder /usr/src berisi source code dari kernel linux saat ini dan kernel linux versi sebelumya

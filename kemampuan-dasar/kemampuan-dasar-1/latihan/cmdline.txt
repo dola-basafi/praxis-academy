@@ -1,0 +1,29 @@
+rootz@dola:~/praxis$ ls
+kemampuan-dasar-1  kemampuan-dasar-2
+rootz@dola:~/praxis$ cd kemampuan-dasar-1
+rootz@dola:~/praxis/kemampuan-dasar-1$ ls
+env.txt  grub.txt  kernel-linux.txt  latihan
+rootz@dola:~/praxis/kemampuan-dasar-1$ cat env.txt 
+sumber : https://stackoverflow.com
+
+
+rootz@dola:~$ inxi -S
+System	:  Host: dola 
+Kernel		: 4.15.0-58-generic x86_64 bits: 64
+Desktop	: LXDE (Openbox 3.6.1) 
+Distro		: Ubuntu 18.04.3 LTS
+
+
+rootz@dola:~/praxis/kemampuan-dasar-1$ date
+Sun Aug 25 20:32:00 WIB 2019
+rootz@dola:~/praxis/kemampuan-dasar-1$ find grub.txt
+grub.txt
+rootz@dola:~/praxis/kemampuan-dasar-1$ free
+              total        used        free      shared  buff/cache   available
+Mem:        7840908     2284128     3291240      404836     2265540     4848716
+Swap:       2097148           0     2097148
+rootz@dola:~/praxis/kemampuan-dasar-1$ pwd
+/home/rootz/praxis/kemampuan-dasar-1
+rootz@dola:~/praxis/kemampuan-dasar-1$ uname
+Linux
+rootz@dola:~/praxis/kemampuan-dasar-1$ exit && reboot
