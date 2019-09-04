@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroceryStore",
+            "request": "launch",
+            "mainClass": "GroceryStore"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SuppressWarningTest",
+            "request": "launch",
+            "mainClass": "SuppressWarningTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeprecatedDemo",
+            "request": "launch",
+            "mainClass": "DeprecatedDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubClass",
+            "request": "launch",
+            "mainClass": "SubClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Base",
+            "request": "launch",
+            "mainClass": "Base"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeprecatedTest",
+            "request": "launch",
+            "mainClass": "DeprecatedTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Derived",
+            "request": "launch",
+            "mainClass": "Derived"
+        }
+    ]
+}
