@@ -25,7 +25,7 @@ public class Siswa {
     public void setAlamat(String alamat){
         this.alamat = alamat;
     }
-    public void setEmail(string email){
+    public void setEmail(String email){
         this.email = email;
     }
     public int getIdSiswa(){
