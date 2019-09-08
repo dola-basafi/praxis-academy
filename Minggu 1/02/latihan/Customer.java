@@ -10,6 +10,7 @@ public class Customer {
     }
 
     public Customer(int noId, String nama, String alamat) {
+        
         this.noId = noId;
         this.nama = nama;
         this.alamat = alamat;
